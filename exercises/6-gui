@@ -1,0 +1,7 @@
+Requirements: gitg, gitk
+
+Re-clone hello_d.git and cd into the new clone.
+
+Make a change to hello, add, and commit it.
+
+Run gitg.  Run gitk. Explore. Which one do you want to use? YMMV.

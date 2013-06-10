@@ -1,0 +1,10 @@
+Prereqs: git-core, tree
+
+Make an empty directory called hello.$LOGNAME and cd into it.
+($LOGNAME expands to your login name.)
+
+Initialize git with "git init" .  How has the directory changed?
+
+Initialize it again. Does anything change?
+
+Add an empty README file and commit it.  What's changed now?

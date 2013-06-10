@@ -1,0 +1,9 @@
+Checkout the previous version of the master branch with "git checkout HEAD^"
+
+Checkout master again.  Now checkout the previous version by specifying the SHA1 of its commit.  Which is easier to type?
+
+Checkout master again.  Now checkout the previous version by specifying the first four hex digits of the sha1 sum.  How many 5-digit hex number are there?
+
+If there's a collision, you can use a 5-digit hex number (or however many characters you need to get uniqueness). "HEAD^" is also five characters. Which is easier to remember, a 5-digit hex number, or HEAD^?
+
+Every object in the content-addressable file system has a 40-hex-digit, SHA1 identifier.  How many such digits are there?  How much smaller is this than the number of stars in the universe?  The number of electrons? [Hint: 10^79 > 2^160 ~ (10^3)^16 = 10^48 > 10^24 > 1 ]

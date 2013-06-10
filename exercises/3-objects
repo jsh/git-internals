@@ -1,0 +1,9 @@
+
+Create a one-line file named "hello" with the content "echo hello, world", make it executable, run it, to verify that it works. Does wc report that it has exactly one line and 18 characters?
+
+Initialize a git repo, add "hello" and commit it.  Do the files and subdirectories in .git/objects/ have the same names as your neighbor's?
+(If you don't have a neighbor, go up a level, create a new directory, and do all the steps a second time, then compare the two directories.)
+
+Try "git hash-object hello"  Which file in .git/objects/ is the blob for "hello"?
+
+Since the name of the directory doesn't matter, rename it from hello.$LOGNAME to hello_d.
