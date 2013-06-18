@@ -1,4 +1,4 @@
-Make sure the following packages are installed:
+0.0 Make sure the following packages are installed:
 
 $ packages="git-core gitg gitk tree"
 
