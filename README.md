@@ -1,4 +1,4 @@
 git-internals
 =============
 
-Git Internals talk
+Git Internals Talk
