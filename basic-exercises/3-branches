@@ -1,0 +1,24 @@
+3.1 make a branch with "git branch mybranch"
+
+What's changed in .git/refs?  Has .git/HEAD changed?
+
+3.2 check out the branch with "git checkout mybranch"
+
+Has .git/HEAD changed? Use "git checkout" to switch between "mybranch" and "master" a few times.
+
+3.4 make non-overlapping changes in the different branches.
+
+Watch the underlying changes. Run gitg or gitk to see your changes.
+
+3.5 merge
+
+Change to the master branch, then run "git merge mybranch".
+Commit the merge.  What does gitg/gitk show?
+
+3.6 delete the branch
+
+$ git branch -d mybranch
+
+Now what does gitg/gitk show?
+
+

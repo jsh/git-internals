@@ -1,0 +1,29 @@
+1. Make a directory, cd into it, and create the repo.
+
+$ mkdir /tmp/$LOGNAME; cd $_; git init
+
+This creates a git repository.
+What's there?
+Use "tree -a" to inspect the contents.
+
+2. Add a file.
+
+$ touch README
+$ git add .
+
+What's changed? [Hint: use "tree -a"]
+Use "git cat-file -p e69d" to show the contents.
+
+3. Now commit it.
+
+$ git commit -m"initial"
+
+What's changed?  What are the new objects?
+
+4. Add another file
+
+$ touch foo
+$ git add .
+
+What's changed?  Why?
+What does "git status" say?

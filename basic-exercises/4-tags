@@ -1,0 +1,18 @@
+4.1 Add tag
+
+What does gitg/gitk show?
+
+4.2 Remove it
+
+What does gitg/gitk show?
+
+4.3 Add some more, tagging various commits on different branches.
+
+4.4 Check one out.
+
+What warning message do you get?  What happens when you follow git's advice? [Hint: gitg/gitk]
+
+4.5 What happens if you tag master, check out the tag, change it, and commit the change?
+
+What does git say if you check out mybranch afterwards? Why?
+Is the difference between a tag and a branch clearer?
