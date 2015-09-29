@@ -1,6 +1,0 @@
-#!/bin/bash -eu
-
-git init
-echo hello, world > README
-git add .
-git commit -aminitial
