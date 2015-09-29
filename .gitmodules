@@ -1,0 +1,3 @@
+[submodule "git-scratch"]
+	path = git-scratch
+	url = https://github.com/jsh/git-scratch.git
