@@ -102,4 +102,4 @@ What will you get from it?
 - a way that works to understand the things we don't cover
 
 Let's start to that to understand what's that ```.git/``` repo contains by
-[looking at that simple repo again.](https://github.com/jsh/git-internals/repos/the-empty-file.md)
+[looking at that simple repo again.](https://github.com/jsh/git-internals/blob/new-course/repos/the-empty-file.md)
