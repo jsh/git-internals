@@ -1,4 +1,4 @@
-Â### How Do it Know?
+### How Do it Know?
 
 Let's start afresh, but watch more carefully.
 
