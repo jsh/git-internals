@@ -95,4 +95,4 @@ Notice that though the object is in ```.git/objects/e6/9de29...91```,
 By the time you're done, I predict you'll recognize ```e69de``` as "the empty file."
 
 For now, though, let's move on to do a commit, and use ```git cat-file``` and
-[look at those other two objects.](https://github.com/jsh/git-internals/repos/two-new-object-types.md)
+[look at those other two objects.](https://github.com/jsh/git-internals/blob/new-course/repos/two-new-object-types.md)
