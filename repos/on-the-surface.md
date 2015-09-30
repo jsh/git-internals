@@ -30,4 +30,4 @@ git show
 
 *Something* is changing. How does **git** know?
 
-Time to [look under the hood.](https://github.com/jsh/git-internals/repos/below-the-surface.md)
+Time to [look under the hood.](https://github.com/jsh/git-internals/blob/new-course/repos/below-the-surface.md)
