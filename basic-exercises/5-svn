@@ -1,4 +1,0 @@
-5.1 Compare svn and git
-
-$ time svn co https://canary.svn.cloudforge.com/hello
-$ time git clone git://github.com/jsh/hello

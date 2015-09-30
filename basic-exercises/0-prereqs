@@ -1,9 +1,0 @@
-0.0 Make sure the following packages are installed:
-
-$ packages="git-core gitg gitk tree"
-
-$ sudo yum install $packages
-
-or 
-
-$ sudo apt-get install $packages

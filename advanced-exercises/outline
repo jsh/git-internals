@@ -1,5 +1,0 @@
-How's git work?
-What's in .git?
-Git is a content-addressable file system.
-Let's add something to git to see what happens.
-Git is a database of objects, plus some stickies.

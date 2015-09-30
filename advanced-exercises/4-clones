@@ -1,9 +1,0 @@
-cd to the parent directory and clone "hello_d" to "1_d" .  Clone a second time to "2_d".  What does "diff -r" report about the differences between these two?
-
-Can you make sense of the numbers?  Hint: "date --date='@NNNNNNN'" will convert seconds since the epoch to a human-readable date.  Use "ls -l" to validate your hunch.
-
-Use "git clone --bare hello_d" .  What's in the new directory?
-
-Does "git clone --hello_d foo.git" change anything interesting?  Does "git clone --bare 1_d"?
-
-Save hello_d.git and get rid of the rest (including the original, non-bare repos).  What happens when you clone it with git clone "hello_d.git"?

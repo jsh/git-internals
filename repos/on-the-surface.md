@@ -21,10 +21,13 @@ git init
 state
 > README
 state
-git add hello
+git add README
 state
-git commit
+git commit -m'initial'
 state
+git show
 ```
 
 *Something* is changing. How does **git** know?
+
+Time to [look under the hood.](https://github.com/jsh/git-internals/repos/below-the-surface.md)
