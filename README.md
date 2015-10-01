@@ -1,4 +1,6 @@
 git-internals
 =============
 
-Git Internals Talk
+## Git Internals Talk
+
+These are notes for a presentation on git internals
