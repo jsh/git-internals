@@ -105,6 +105,3 @@ git commit -m'truth in advertising'
 
 Now that you're becoming an expert,
 let's pause to [improve your intuition about objects.](https://github.com/jsh/git-internals/blob/new-course/repos/object-intuition.md)
-
-
-printf "blob 6\000sweet\n" | sha1sum
