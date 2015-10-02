@@ -117,14 +117,7 @@ to see what **git** does.
 
 You understand what's in ```.git/objects/```, how they get their names, and how to put them there. You understand that git is a content-addressale filesystem.
 
-We'll leave this now and go on to tagging and branching,
+We'll leave this now and go on to [tagging and branching,](https://github.com/jsh/git-internals/blob/new-course/commitishes/start-with-tags.md)
 which you'll do a lot of.
 
-If you're math-y, here are a couple of more exercises you can try on your own that are just fun.
-
-
-
-
-
-
-```
+If you're math-y, [here are some puzzles](https://github.com/jsh/git-internals/blob/new-course/commitishes/sha1-math.md) you can try on your own that are just fun.
