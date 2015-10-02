@@ -45,7 +45,7 @@ done
 They all have the same thing. That must be git's "empty file."
 
 ```bash
-cmp {/tmp/scratch/,*.1}/.git/objects/e6/9*
+cmp {/tmp/scratch,*.1}/.git/objects/e6/9*
 ```
 
 They're the same as the ```e6/9de29...91``` under ```/tmp/scratch```,
