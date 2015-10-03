@@ -1,3 +1,6 @@
 [submodule "git-scratch"]
 	path = git-scratch
 	url = https://github.com/jsh/git-scratch.git
+[submodule "class-checklist"]
+	path = class-checklist
+	url = https://github.com/jsh/class-checklist.git
