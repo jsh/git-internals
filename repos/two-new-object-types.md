@@ -1,10 +1,10 @@
 ### Blobs, Trees, and Commits
 
-You've created a repository with ```git init```
-and added an empty file with ```git add```.
+You've created a repository with `git init```
+and added an empty file with `git add```.
 Now what?
 
-A commit, with ```git commit```.
+A commit, with `git commit```.
 
 Clean up the array of scratch directories you've made
 and start afresh.
@@ -25,7 +25,7 @@ git commit -am'initial'
 ```
 
 I like to use a stereotyped, initial commit message.
-As with using common names, like, ```README``` and ```LICENSE```,
+As with using common names, like, `README` and `LICENSE```,
 putting a trash-can under the sink,
 or doing laundry on Washday,
 conventions offer familiarity and consistency.
@@ -40,7 +40,7 @@ tree .git/objects
 
 See the blob that corresponds to that identifier?
 That identifier is your most recent commit,
-or ```HEAD```.
+or `HEAD```.
 
 You don't have to memorize that identifier.
 You can see it in lots of ways:
@@ -49,7 +49,7 @@ git show
 git rev-parse HEAD
 ```
 
-```HEAD``` always names the most recent commit on your current branch --
+```HEAD` always names the most recent commit on your current branch --
 whatever you're looking at right now.
 
 What's in it?
@@ -79,8 +79,8 @@ First, convince yourself that
 adding a file, making a commit,
 and understanding what git's telling you along the way.
 - you understand all the objects in a simple, scratch repo
-with an empty ```README``` file.
-- you can use ```git cat-file``` to look at objects
+with an empty `README` file.
+- you can use `git cat-file` to look at objects
 - it doesn't make you nervous to throw away repos
 
 Next, add and commit more files, and use tools

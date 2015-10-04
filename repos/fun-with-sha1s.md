@@ -1,7 +1,7 @@
 ### Counting
 
 **git** obsesses over SHA1s, which are forty-hex-digit strings, such as
-```e69de29bb2d1d6434b8b29ae775ad8c2e48c5391``` that name objects.
+```e69de29bb2d1d6434b8b29ae775ad8c2e48c5391` that name objects.
 
 #### Quiz 1
 

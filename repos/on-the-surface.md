@@ -2,7 +2,7 @@
 
 First, define a little, reporting function
 to list the contents of the current directory
-and run ```git status```.
+and run `git status```.
 
 ```bash
 function state() { echo; ls -l; printf '\n===\n\n'; git status; }
