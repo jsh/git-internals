@@ -6,7 +6,7 @@ Study this list for a few seconds, close your eyes and say back as many as you c
 
 Now, do the same with this list:
 
-[e83c516, 8bc9a0c, e497ea2, bf0c6e8, 19b2860, 24778e3, 2ade934]
+e83c516, 8bc9a0c, e497ea2, bf0c6e8, 19b2860, 24778e3, 2ade934
 
 They're both lists of seven-character strings.
 **git** loves hex constants. You? Not so much.
