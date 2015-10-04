@@ -104,3 +104,5 @@ It's the same commit. One's headless, one's not. How does **git** know?
 
 How can you figure out what's going on?
 Do it.
+
+Meanwhile, it's time to [talk about sharing work.](https://github.com/jsh/git-internals/blob/new-course/other-stuff/togetherness.md)
