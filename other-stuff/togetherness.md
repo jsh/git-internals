@@ -1,6 +1,6 @@
 ### Togetherness
 
-The most important thing about **git** is that it's simple.
+The most important thing about **`git`** is that it's simple.
 
 The *next* most important thing? It's local.
 
@@ -65,7 +65,7 @@ Oops. What are `.git/objects/pack/` and `.git/packed-refs`.
 And the `.gitkeep` file is still there, but what happened to the objects?
 Or to ``.git/refs/tags/initial`?
 
-They're still there, and **git**'s commands can still see them.
+They're still there, and **`git`**'s commands can still see them.
 
 ```bash
 cd scratch.clone

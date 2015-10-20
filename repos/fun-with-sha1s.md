@@ -1,6 +1,6 @@
 ### Counting
 
-**git** obsesses over SHA1s, which are forty-hex-digit strings, such as
+**`git`** obsesses over SHA1s, which are forty-hex-digit strings, such as
 ```e69de29bb2d1d6434b8b29ae775ad8c2e48c5391` that name objects.
 
 #### Quiz 1
@@ -22,7 +22,7 @@ What are good ways to say how big this is?
 
 #### Quiz 3
 
-When you're doing things with an object, **git** will let you get away with abbreviating SHA1s.
+When you're doing things with an object, **`git`** will let you get away with abbreviating SHA1s.
 instead of typing
 ```git cat-file -p e69de29bb2d1d6434b8b29ae775ad8c2e48c5391```
 you can type

@@ -30,7 +30,7 @@ putting a trash-can under the sink,
 or doing laundry on Washday,
 conventions offer familiarity and consistency.
 
-Notice what **git**'s telling you:
+Notice what **`git`**'s telling you:
 there's a commit, and it has an identifier.
 
 Look what's changed:
@@ -66,9 +66,9 @@ git cat-file -p 543b9
 git cat-file -t $_
 ```
 
-- "blob" is **git** for "file"
-- "tree" is **git** for "directory"
-- "commit" is **git** for ... uh ... "commit"
+- "blob" is **`git`** for "file"
+- "tree" is **`git`** for "directory"
+- "commit" is **`git`** for ... uh ... "commit"
 
 Time to make some more repositories and commits.
 Please do it yourself a few times, with in a few different places and ways.

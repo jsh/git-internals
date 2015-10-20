@@ -9,9 +9,9 @@ Now, do the same with this list:
 e83c516, 8bc9a0c, e497ea2, bf0c6e8, 19b2860, 24778e3, 2ade934
 
 They're both lists of seven-character strings.
-**git** loves hex constants. You? Not so much.
+**`git`** loves hex constants. You? Not so much.
 
-You need a better way to name these constants; **git** gives you lots of ways.
+You need a better way to name these constants; **`git`** gives you lots of ways.
 
 Start with the most straightforward: *tags*.
 

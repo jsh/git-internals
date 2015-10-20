@@ -100,7 +100,7 @@ Your Turn:
 1. Next, check out the tag, and look at the message. Don't do any commits.
 1. Finally, check out master again. Is there a message?
 
-It's the same commit. One's headless, one's not. How does **git** know?
+It's the same commit. One's headless, one's not. How does **`git`** know?
 
 How can you figure out what's going on?
 Do it.

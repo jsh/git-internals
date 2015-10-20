@@ -11,7 +11,7 @@ It will save you some typing.
 
 Next, use it to watch what's happening,
 as you create a little, scratch project
-and put it under **git**.
+and put it under **`git`**.
 
 ```bash
 mkdir /tmp/scratch
@@ -28,6 +28,6 @@ state
 git show
 ```
 
-*Something* is changing. How does **git** know?
+*Something* is changing. How does **`git`** know?
 
 Time to [look under the hood.](https://github.com/jsh/git-internals/blob/new-course/repos/below-the-surface.md)

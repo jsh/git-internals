@@ -20,8 +20,8 @@ to all our company*
 What have you learned?
 - (Almost) everything is in `.git/`
 - The git repo is a content-addressable filesystem
-- You can extend **git** with aliases and new subcommands
-- You can understand **git** with little experiments,
+- You can extend **`git`** with aliases and new subcommands
+- You can understand **`git`** with little experiments,
 on tiny, scratch repos.
 
 There's a lot more that's important:
@@ -34,7 +34,7 @@ There's a lot more that's important:
 - how trees and commits happen
 - merges
 - workflow, tools, and best practices
-- how **git** got where it is, and where **git** is going
+- how **`git`** got where it is, and where **git** is going
 - large-file management
 - ...
 

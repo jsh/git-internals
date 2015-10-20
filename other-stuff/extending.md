@@ -26,7 +26,7 @@ ls /usr/lib/git-core | wc -l
 ```
 
 This is where bash keeps its sub-commands.
-When you type `git pull`, **git** sees the subcommand `git pull`,
+When you type `git pull`, **`git`** sees the subcommand `git pull`,
 slaps in a hyphen and looks for a command called `/usr/lib/git-core/git-pull`,
 which it finds and executes.
 
@@ -73,7 +73,7 @@ git hello
 
 That's why you don't have to put a hyphen in `git addfile` or `git scratch` .
 
-**git** keeps commands into `/usr/lib/git-core/`, plus anywhere in your path.
+**`git`** keeps commands into `/usr/lib/git-core/`, plus anywhere in your path.
 Where else does it keep things?
 
 ```bash
@@ -96,7 +96,7 @@ git config flanagan.son
 
 When you write a command,
 you can configure it with your own `~/.gitconfig` variables.
-`git help config` will tell you config variables that **git** knows about,
+`git help config` will tell you config variables that **`git`** knows about,
 out of the box. There are lots.
 
 If it's a good command, you can install it into `/usr/local/bin/` for general use.

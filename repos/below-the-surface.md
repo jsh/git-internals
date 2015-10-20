@@ -30,10 +30,10 @@ state
 ```
 
 No obvious change.
-**git** simply sees that there's a `README` file
+**`git`** simply sees that there's a `README` file
 that it doesn't know anything else about.
 
-Let's continue to follow **git**'s advice.
+Let's continue to follow **`git`**'s advice.
 
 ```bash
 git add README
@@ -41,7 +41,7 @@ state
 ```
 
 Aha! Now there are changes.
-And **git** *does* know something about the file.
+And **`git`** *does* know something about the file.
 Keep your eye on that file under `objects/e6/```.
 
 What's left? The commit.
@@ -53,7 +53,7 @@ state
 
 We've added two more objects.
 
-Are all the things **git** knows about under `.git/```?
+Are all the things **`git`** knows about under `.git/```?
 Let's find out.
 
 ```bash
@@ -66,8 +66,8 @@ git show
 We're back to where we started.
 ````.git/`` is, in fact, your entire git repository.
 It's all there is.
-It's where **git** stores everything it knows about.
-Understand what's in it and you understand **git**.
+It's where **`git`** stores everything it knows about.
+Understand what's in it and you understand **`git`**.
 
 And what were the three objects?
 We'll see momentarily,
@@ -95,9 +95,9 @@ This is going to be our approach:
 
 What will you get from it?
 
-- an ability to hear what **git** is telling you
+- an ability to hear what **`git`** is telling you
 
-- a deep understanding of **git**'s design
+- a deep understanding of **`git`**'s design
 
 - a way that works to understand the things we don't cover
 

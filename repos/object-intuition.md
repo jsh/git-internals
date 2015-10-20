@@ -79,7 +79,7 @@ git hash-object hello
 
 That name is a 40-digit, hex number.
 There are lots of objects in most `git/` repos,
-so **git** carves off the first two digits
+so **`git`** carves off the first two digits
 for a directory name:
 16^2 = 256 directories under `.git/objects/```,
 so each directory has a quarter-thousand fewer objects.
@@ -111,9 +111,9 @@ A trio of exercises to hammer this home:
 and convince yourself you know why the resulting objects have the names they do.
 1. Make objects that don't correspond to their names:
 move them to different names, or change their contents.
-Try some **git** commands with the mangled repos
-to see what **git** does.
-1. Make a few commits, then ask **git** to check out any commit, using its SHA1. Then ask git to check out one of the objects that *isn't* a commit.
+Try some **`git`** commands with the mangled repos
+to see what **`git`** does.
+1. Make a few commits, then ask **`git`** to check out any commit, using its SHA1. Then ask git to check out one of the objects that *isn't* a commit.
 
 You understand what's in `.git/objects/```, how they get their names, and how to put them there. You understand that git is a content-addressale filesystem.
 

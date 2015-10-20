@@ -76,7 +76,7 @@ cat /tmp/scratch/**/9* # or maybe even cat /tmp/**/9*
 
 It looks like garbage because it *does* add a couple of pieces of metadata, the filesize and the object type (which we'll get to in a minute), and it's zlib-compressed.
 
-To show the contents, **git** gives us a tool: **git**'s Swiss-army knife, `git cat-file```.
+To show the contents, **`git`** gives us a tool: **git**'s Swiss-army knife, `git cat-file```.
 
 ```bash
 cd /tmp/scratch
@@ -90,7 +90,7 @@ Pause here, add a couple of non-empty files to one of your scratch repos, and us
 And what happens if you try to add a few more *empty* files, by other names?
 
 Notice that though the object is in `.git/objects/e6/9de29...91```,
-**git** is letting us name the object with the directory name, `e6```, stuck on to the first few characters of the filename, `9de```.
+**`git`** is letting us name the object with the directory name, `e6```, stuck on to the first few characters of the filename, `9de```.
 
 By the time you're done, I predict you'll recognize `e69de` as "the empty file."
 
