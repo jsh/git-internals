@@ -74,6 +74,7 @@ all on an airplane, in a coffee shop,
 or in your home while still in your pajamas.
 
 #### *Note: For a short talk, the intro can probably stop here.*
+So, if you want to jump in now, [click here.](https://github.com/jsh/git-internals/blob/master/repos/on-the-surface.md)
 
 We can look for a version a week later and tag it.
 
@@ -95,3 +96,6 @@ git log --oneline --graph --decorate $(git rev-list --merges master | tail -1)
 ```
 
 All this completely disconnected from the net. Fast. Local.
+But how?
+
+No reason to put understanding off any longer, [so let's begin.](https://github.com/jsh/git-internals/blob/master/repos/on-the-surface.md)
